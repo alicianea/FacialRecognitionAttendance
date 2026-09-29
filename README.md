@@ -45,7 +45,7 @@ Note: `dlib` requires CMake and a C++ compiler to build. On Windows, install Vis
 
 .
 
-├── main.py             # The main program (rename to match your file)
+├── AttendanceProject.py
 
 ├── Images/             # Photos of known people (one per person)
 
@@ -69,7 +69,7 @@ Add an unknown-face image (optional). Place an image named `unknown.jpg` in the 
 
 To run the program:
 
-`python main.py`
+`python AttendanceProject.py`
 
 The webcam will open. Position yourself in front of the camera, and once you're recognized, your name and check-in time are saved to Attendance.csv.
 
