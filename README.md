@@ -51,7 +51,7 @@ Note: `dlib` requires CMake and a C++ compiler to build. On Windows, install Vis
 
 │   ├── Alice.jpg
 
-│   └── Bob.png
+│   └── Bob.jpg
 
 ├── Attendance.csv      # Attendance log (must exist before first run)
 
